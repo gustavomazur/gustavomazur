@@ -6,7 +6,7 @@
 
 <h3 align="center">Gustavo Bueno Mazur</h3>
 <p align="center">
-  Estudante de Programação | Em busca de aprender o máximo possível<br>
+  Estudante de Programação | Em busca de aprender o máximo possível  
   Juranda - PR | Disponível para trabalho remoto
 </p>
 
@@ -31,22 +31,4 @@
 
 <table>
   <tr>
-    <td>
-
-### 📚 Cursos com certificado
-
-- HTML Básico  
-- CSS Avançado  
-- JavaScript Avançado  
-- GitHub  
-- Banco de Dados  
-- Lógica de Programação  
-- Excel, Word e PowerPoint  
-- Informática Básica e Avançada  
-
-</td>
-<td align="center">
-
-<h4>🎬 Programando sem parar...</h4>
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXd6bWt2ODEyNmttY3hsejdhcDBhYTBxcGpwZDJiY29xN3BuM204YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9
+    <td
