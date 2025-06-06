@@ -29,7 +29,14 @@ Estou pronto para contribuir, aprender e crescer profissionalmente.
 - Banco de Dados  
 - Lógica de Programação  
 - Excel, Word e PowerPoint  
-- Informática Básica e Avançada  
+- Informática Básica e Avançada
+
+- ### 🎬 Programando sem parar...
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXd6bWt2ODEyNmttY3hsejdhcDBhYTBxcGpwZDJiY29xN3BuM204YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B1uajA01vvL91Urtsp/giphy.gif" width="300px">
+</p>
+
 
 ---
 
@@ -61,9 +68,4 @@ Estou pronto para contribuir, aprender e crescer profissionalmente.
 
 ---
 
-### 🎬 Programando sem parar...
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXd6bWt2ODEyNmttY3hsejdhcDBhYTBxcGpwZDJiY29xN3BuM204YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B1uajA01vvL91Urtsp/giphy.gif" width="300px">
-</p>
 
