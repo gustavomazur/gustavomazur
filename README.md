@@ -45,6 +45,9 @@
 - Lógica de Programação  
 - Excel, Word e PowerPoint  
 - Informática Básica e Avançada
+- 
+- Atualmente estudando e praticando:  
+- **Java (Fundamentos, POO, Arrays, Loops, Classes e Métodos)** 
 
 </td>
 <td align="center" valign="top">
