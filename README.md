@@ -44,7 +44,7 @@
 - Banco de Dados  
 - Lógica de Programação  
 - Excel, Word e PowerPoint  
-- Informática Básica e Avançada
+- Informática 
 - 
 - Atualmente estudando e praticando:  
 - **Java (Fundamentos, POO, Arrays, Loops, Classes e Métodos)** 
