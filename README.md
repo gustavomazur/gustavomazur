@@ -37,9 +37,9 @@
 
 ### 📖 Cursos com certificado
 
-- HTML Básico  
-- CSS Avançado  
-- JavaScript Avançado  
+- HTML 
+- CSS  
+- JavaScript   
 - GitHub  
 - Banco de Dados  
 - Lógica de Programação  
