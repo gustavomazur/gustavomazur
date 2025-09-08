@@ -64,7 +64,7 @@
 
 ---
 
-### 🛠️ Minhas Tecnologias
+### Tecnologias que conheço
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
@@ -83,5 +83,6 @@
 
 ---
 
+```java
 System.out.println("Meu código carrega sonhos, meu foco carrega futuro.");
 
