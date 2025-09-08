@@ -48,8 +48,9 @@
 - Git / GitHub  
 - Visual Studio Code
 
-###Atualmente estudando e praticando:  
-- **Java (Fundamentos, POO, Arrays, Loops, Classes e Métodos)** 
+### Atualmente estudando e praticando
+- **Java (Fundamentos, POO, Arrays, Loops, Classes e Métodos)**
+
 
 </td>
 <td align="center" valign="top">
