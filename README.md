@@ -81,8 +81,18 @@
 
 - ![Java](https://img.shields.io/badge/Java-60%25-red)
 
+
 ---
 
+### 📂 Meus Projetos
+
+- [**Loja Online**](https://github.com/gustavomazur/Loja_online)  
+  Projeto de loja virtual simples usando **PHP** e **MySQL**.
+
+- [**Currículo Online**](https://github.com/gustavomazur/curriculo-mazur)  
+  Currículo pessoal feito em **HTML** e **CSS**, servindo como portfólio digital.
+
+---
 ```java
 System.out.println("Meu código carrega sonhos, meu foco carrega futuro.");
 
