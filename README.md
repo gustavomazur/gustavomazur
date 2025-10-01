@@ -14,12 +14,6 @@
 
 ---
 
-### Contato Profissional
-
-- **Email:** gustavo_bueno_mazur@hotmail.com  
-- **WhatsApp:** [+55 44 99821-3774](https://wa.me/5544998213774)
-
----
 
 ### Minhas redes
 
