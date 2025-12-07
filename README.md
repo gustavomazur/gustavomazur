@@ -30,21 +30,28 @@
     <td valign="top">
 
 ### Cursos com certificado  
-- HTML  
-- CSS  
-- JavaScript  
+- Spring Boot 3: desenvolva uma API Rest em Java
+- Java: Consumindo API, gravando arquivos e lidando com erros
+- Pensamento computacional: Fundamentos da computação e lógica de programação
 - Banco de Dados (MySQL)  
-- Lógica de Programação  
-- Excel, Word e PowerPoint  
-- Informática  
+- Praticando Java: Orientação a Objetos com classes, atributos e métodos
+- Praticando Java: String e Regex
+- Praticando java: coleções e streams
+- Praticando Java: condicionais if e else
+- Praticando Java: data e hora
+- Praticando Java: encapsulamento
+- Praticando Java: herança, polimorfismo e interfaces
+- Praticando Java: laços for e while
+- Praticando Java: variáveis e tipos
+- Docker: criando e gerenciando containers
+- Git e Git-Hub: compartilhando e colaborando em projetos
+- Java: aplicando a Orientação a Objetos
+- Java: trabalhando com listas e coleções de dados
+- Java: criando a sua primeira aplicação
 
 ### Ferramentas que utilizo  
 - Git / GitHub  
-- Visual Studio Code
-
-### Atualmente estudando e praticando
-- **Java (Fundamentos, POO, Arrays, Loops, Classes e Métodos)**
-
+- Visual IntelliJ IDEA
 
 </td>
 <td align="center" valign="top">
