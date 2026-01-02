@@ -1,4 +1,4 @@
-
+ 
 
 <h1 align="center">console.log("Transformando café em código")</h1>
 
@@ -53,11 +53,10 @@
 * IntelliJ IDEA
 * Insomnia
 * Docker
-* Figma
-* Lucidchart
-* Trello
+* MySql
 * Linux
 * Discord
+  
 
 </p>
 </td>
