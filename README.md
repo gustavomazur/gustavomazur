@@ -48,14 +48,14 @@
 - Java: trabalhando com listas e coleções de dados
 - Java: criando a sua primeira aplicação
 
-### Ferramentas que Utilizo
-* Git e Git-Hub
-* IntelliJ IDEA
-* Insomnia
-* Docker
-* MySql
-* Linux
-* Discord
+ ### Ferramentas que mais Utilizo
+ - Git e Git-Hub
+ - Pycharm
+ - IntelliJ IDEA
+ - Insomnia
+ - Docker
+ - MySql
+ - Linux
   
 
 </p>
