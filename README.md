@@ -27,7 +27,7 @@
   <tr>
     <td valign="top">
 
-### Cursos com certificado  
+### CURSOS DE CAPACITAÇÃO Total: 30 cursos  
 - Spring Boot 3: desenvolva uma API Rest em Java
 - Java: Consumindo API, gravando arquivos e lidando com erros
 - Pensamento computacional: Fundamentos da computação e lógica de programação
