@@ -93,11 +93,6 @@
 
 ---
 
-
-### 🚀 Progresso de Aprendizado
-
-- ![Java](https://img.shields.io/badge/Java-60%25-red)
-
 ```java
 System.out.println("Meu código carrega sonhos, meu foco carrega futuro.");
 
