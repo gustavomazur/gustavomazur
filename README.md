@@ -11,8 +11,8 @@
   <br>Estudante de Programação | Em busca de aprender o máximo possível
   <br>Juranda - PR | Apaixonado por tecnologia, não tem coisa que eu mais sonhei
 </p>
----
 
+---
 
 ### Minhas redes
 
