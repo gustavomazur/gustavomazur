@@ -61,7 +61,8 @@
 </td>
 <td align="center" valign="top">
 
-### Programando sem parar...
+### Programando sem parar
+Domingo a Domingo...
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXd6bWt2ODEyNmttY3hsejdhcDBhYTBxcGpwZDJiY29xN3BuM204YSZ1c0J1ZW9pbnR1cm5hbF9naWZfYnlfaWQmY3Q9Zw/B1uajA01vvL91Urtsp/giphy.gif" width="280px" />
 
 </td>
