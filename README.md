@@ -49,11 +49,12 @@
 
  ### Ferramentas que mais Utilizo
  - Git e Git-Hub
- - Pycharm
  - IntelliJ IDEA
+ - Visual Studio Code
  - Insomnia
  - Docker
- - MySql
+ - MySQL
+ - PostgreSQL
  - Linux
   
 
