@@ -21,8 +21,6 @@
 
 ---
 
-## Buscando minha primeira oportunidade na área
-
 <table>
   <tr>
     <td valign="top">
