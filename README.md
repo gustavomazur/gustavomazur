@@ -1,6 +1,6 @@
  
 
-<h1 align="center">console.log("Transformando café em código")</h1>
+<h1 align="center">console.log("Problemas reais. Soluções inteligentes. Código limpo.")</h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/GustavoMazur" width="150px" style="border-radius: 50%" />
@@ -101,5 +101,5 @@ Domingo a Domingo...
 ---
 
 ```java
-System.out.println("Meu código carrega sonhos, meu foco carrega futuro.");
+System.out.println("Escrevo código para resolver problemas, trabalho para entregar excelência.");
 
