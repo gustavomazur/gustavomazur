@@ -8,8 +8,8 @@
 
 <p align="center">
   <b>Gustavo Bueno Mazur</b>  
-  <br>Estudante de Programação | Em busca de aprender o máximo possível
-  <br>Juranda - PR | Apaixonado por tecnologia, não tem coisa que eu mais sonhei
+  <br>Estudante de Programação | Em busca de aprender o máximo possível para me tornar cada vez melhor no que amo fazer.
+  <br>Juranda - PR | Apaixonado por tecnologia. Não há nada melhor do que fazer o que você ama. Foco 110%!
 </p>
 
 ---
