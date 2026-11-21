@@ -61,12 +61,15 @@
 </p>
 </td>
 <td align="center" valign="top">
-
-### Programando sem parar
-Domingo a Domingo...
+  <h3 align="center">Programando sem parar</h3>
+  <p align="center">Domingo a Domingo...</p>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXd6bWt2ODEyNmttY3hsejdhcDBhYTBxcGpwZDJiY29xN3BuM204YSZ1c0J1ZW9pbnR1cm5hbF9naWZfYnlfaWQmY3Q9Zw/B1uajA01vvL91Urtsp/giphy.gif" width="280px" />
 
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="280px" />
+  </p>
 </td>
+
   </tr>
 </table>
 
