@@ -24,25 +24,26 @@
   <tr>
     <td valign="top">
 
-### CURSOS DE CAPACITAÇÃO Total: 30 cursos  
-- Spring Boot 3: desenvolva uma API Rest em Java
-- Java: Consumindo API, gravando arquivos e lidando com erros
-- Pensamento computacional: Fundamentos da computação e lógica de programação
-- Banco de Dados (MySQL)  
-- Praticando Java: Orientação a Objetos com classes, atributos e métodos
-- Praticando Java: String e Regex
-- Praticando java: coleções e streams
-- Praticando Java: condicionais if e else
-- Praticando Java: data e hora
-- Praticando Java: encapsulamento
-- Praticando Java: herança, polimorfismo e interfaces
-- Praticando Java: laços for e while
-- Praticando Java: variáveis e tipos
-- Docker: criando e gerenciando containers
-- Git e Git-Hub: compartilhando e colaborando em projetos
-- Java: aplicando a Orientação a Objetos
-- Java: trabalhando com listas e coleções de dados
-- Java: criando a sua primeira aplicação
+### Hard Skills
+- Java
+- Python
+- Spring Boot
+- FastAPI
+- Desenvolvimento de APIs REST
+- SQL e bancos de dados relacionais
+- MySQL, PostgreSQL e SQLite
+- Git e GitHub
+- Docker
+- Linux / Ubuntu
+- Testes unitários e de integração
+- CI/CD
+- Debugging
+- Modelagem de dados
+- Segurança de APIs
+- Clean Code
+- Orientação a objetos (OOP)
+- Estrutura de dados e lógica de programação
+- Documentação técnica
 
  ### Ferramentas que mais Utilizo
  - Git e Git-Hub
@@ -53,6 +54,8 @@
  - MySQL
  - PostgreSQL
  - Linux
+ - Windows
+ - Claude Code
   
 
 </p>
